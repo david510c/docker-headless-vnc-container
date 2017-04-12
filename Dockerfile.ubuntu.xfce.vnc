@@ -2,8 +2,8 @@
 
 FROM ubuntu:16.04
 
-MAINTAINER Tobias Schneck "tobias.schneck@consol.de"
-ENV REFRESHED_AT 2017-02-14
+MAINTAINER David Chen "david@davidchen.blog"
+ENV REFRESHED_AT 2017-04-12
 
 LABEL io.k8s.description="Headless VNC Container with Xfce window manager, firefox and chromium" \
       io.k8s.display-name="Headless VNC Container based on Ubuntu" \
